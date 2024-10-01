@@ -66,6 +66,7 @@
 - TensorFlow
 - TensorFlow Probability
 - Matplotlib
+- Numpy
 
 ## Contact
 - LinkedIn: [Natan Asrat](https://linkedin.com/in/natan-asrat)
